@@ -1,0 +1,29 @@
+{
+    "name": "clone-merge",
+    "version": "0.0.1",
+    "description": "Library for cloning an optionally merging json objects",
+    "author": {
+        "name": "Anders Blockmar",
+        "email": "npm@blockmar.com",
+        "url": "http://andersblockmar.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/blockmar/clone-merge.git"
+    },
+    "bugs": {
+        "url": "http://github.com/blockmar/clone-merge/issues"
+    },
+    "dependencies": {
+        "clone": "*",
+        "underscore": "*"
+    },
+    "engines": {
+        "node": ">= 0.4.0"
+    },
+    "licenses": [ {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/MIT"
+    } ],
+    "keywords": ["object", "json", "clone", "merge", "copy"]
+}
