@@ -1,5 +1,5 @@
-node-clone-merge
-================
+clone-merge
+===========
 
 Simple lib to clone and optionally merge json data objects.
 
