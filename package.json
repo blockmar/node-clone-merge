@@ -1,6 +1,6 @@
 {
     "name": "clone-merge",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Library for cloning an optionally merging json objects",
     "author": {
         "name": "Anders Blockmar",
@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/blockmar/clone-merge.git"
+        "url": "git://github.com/blockmar/node-clone-merge.git"
     },
     "bugs": {
-        "url": "http://github.com/blockmar/clone-merge/issues"
+        "url": "https://github.com/blockmar/node-clone-merge/issues"
     },
     "dependencies": {
         "clone": "0.1.11",
